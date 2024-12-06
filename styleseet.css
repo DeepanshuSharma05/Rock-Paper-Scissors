@@ -6,6 +6,7 @@ body{
     text-align: center;
     background-image: url("https://i0.wp.com/junilearning.com/wp-content/uploads/2023/12/java-tutorial-coding-rock-paper-scissors.png?fit=800%2C500&ssl=1");
     background-size: cover;
+     background-repeat: no-repeat;
 }
 
 .main{
